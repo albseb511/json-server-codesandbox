@@ -1,10 +1,10 @@
 {
-  "name": "node-http-server",
+  "name": "json-server-example",
   "version": "1.0.0",
-  "description": "Node.js example server starter project",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "nodemon src/index.js localhost 8080"
   },
   "dependencies": {
     "json-server": "0.16.3"
