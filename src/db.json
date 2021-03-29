@@ -1,0 +1,7 @@
+{
+  "posts": [
+    { "id": 1, "title": "Welcome to Masai School", "author": "Masai school" }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
